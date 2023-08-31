@@ -1,6 +1,9 @@
 # Advanced CCTV Analytics Solution - Suraksha Drishti Kavach
 
-![Project Banner](project_banner.jpg)
+
+https://github.com/prathameshparit/Suraksha-Drishti-Kavach/assets/63944541/9675a980-b21e-415b-9798-209934278dab
+
+
 
 ## Problem Statement
 
@@ -14,6 +17,9 @@
 ## Solution Overview
 
 Our project, **Advanced CCTV Analytics Solution**, aims to automatically detect incidents related to any crime using live CCTV feeds. We deploy cutting-edge computer vision and deep learning algorithms for object detection and classification. Anomaly detection is achieved through LSTM Autoencoder and One Class SVM algorithms. Alerts are generated in real-time to the nearest police station, accompanied by detailed incident reports.
+
+![Kavach](https://github.com/prathameshparit/Suraksha-Drishti-Kavach/assets/63944541/020958d0-64d5-4573-823c-c4741b65e407)
+
 
 ## Technology Stack
 
@@ -63,8 +69,8 @@ The project is being developed by the following team members from Dr. D. Y. Pati
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/advanced-cctv-analytics.git
-   cd advanced-cctv-analytics
+   git clone https://github.com/prathameshparit/Suraksha-Drishti-Kavach.git
+   cd Suraksha-Drishti-Kavach
    ```
 
 2. Install the required dependencies:
@@ -84,11 +90,3 @@ The project is being developed by the following team members from Dr. D. Y. Pati
 ## Contributing
 
 We welcome contributions! Please fork this repository and create a pull request with your suggested changes.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-**Note:** This README is a template and should be customized according to your project's details. The images used in the example are placeholders and should be replaced with relevant images.
